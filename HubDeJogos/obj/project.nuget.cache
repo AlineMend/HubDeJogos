@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fU3gQ0ium0LXv4+GODT1tqndbUjWbplPRryF8YxxbTjjVwHYKrKqqt/JdPFa7U4M8ig+G8hCupNyAMbFiDFRTA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aline\\OneDrive\\Área de Trabalho\\HubDeJogos\\HubDeJogos\\HubDeJogos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aline\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\aline\\.nuget\\packages\\system.json\\4.7.1\\system.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

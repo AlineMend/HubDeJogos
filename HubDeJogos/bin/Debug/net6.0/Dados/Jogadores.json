@@ -1,0 +1,12 @@
+{
+  "nome": "ANA",
+  "pontuaçãoTotal": 0,
+  "resultadoJogos": [
+    {
+      "vitorias": 0,
+      "derrotas": 0,
+      "empates": 0,
+      "pontuação": 0
+    }
+  ]
+}
